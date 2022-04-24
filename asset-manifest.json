@@ -1,26 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffac0b54.chunk.css",
-    "main.js": "/static/js/main.44ea4230.chunk.js",
-    "main.js.map": "/static/js/main.44ea4230.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cf85dd59.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cf85dd59.js.map",
-    "static/js/2.4edd8870.chunk.js": "/static/js/2.4edd8870.chunk.js",
-    "static/js/2.4edd8870.chunk.js.map": "/static/js/2.4edd8870.chunk.js.map",
-    "static/js/3.1414eae9.chunk.js": "/static/js/3.1414eae9.chunk.js",
-    "static/js/3.1414eae9.chunk.js.map": "/static/js/3.1414eae9.chunk.js.map",
+    "main.css": "/static/css/main.8051f278.css",
+    "main.js": "/static/js/main.f23499ce.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/degendegen.gif": "/static/media/degendegen.277e79ec2872d43c02b5.gif",
+    "static/media/oneofus.gif": "/static/media/oneofus.91c1c097276b34dc1055.gif",
+    "static/media/degen.png": "/static/media/degen.705383f1af9f710eeb52.png",
     "index.html": "/index.html",
-    "static/css/main.ffac0b54.chunk.css.map": "/static/css/main.ffac0b54.chunk.css.map",
-    "static/js/2.4edd8870.chunk.js.LICENSE.txt": "/static/js/2.4edd8870.chunk.js.LICENSE.txt",
-    "static/media/degendegen.277e79ec.gif": "/static/media/degendegen.277e79ec.gif",
-    "static/media/degenheadz.a25954bd.png": "/static/media/degenheadz.a25954bd.png",
-    "static/media/reset.css": "/static/media/font.617a0a92.woff",
-    "static/media/oneofus.91c1c097.gif": "/static/media/oneofus.91c1c097.gif"
+    "main.8051f278.css.map": "/static/css/main.8051f278.css.map",
+    "main.f23499ce.js.map": "/static/js/main.f23499ce.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf85dd59.js",
-    "static/js/2.4edd8870.chunk.js",
-    "static/css/main.ffac0b54.chunk.css",
-    "static/js/main.44ea4230.chunk.js"
+    "static/css/main.8051f278.css",
+    "static/js/main.f23499ce.js"
   ]
 }
